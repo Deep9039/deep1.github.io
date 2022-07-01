@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f43981e3.css",
+    "main.js": "/static/js/main.37dbfdb3.js",
+    "static/media/ecommerce.png": "/static/media/ecommerce.522da76635d52117102b.png",
+    "static/media/amazon.png": "/static/media/amazon.14ead80e4f86e67f5158.png",
+    "static/media/sidebar.png": "/static/media/sidebar.b2225070b8adae68d063.png",
+    "static/media/musicapp.png": "/static/media/musicapp.f1c301f91904ef5f9249.png",
+    "static/media/hoc.png": "/static/media/hoc.e6af51fc04c57ae67096.png",
+    "static/media/fiver.png": "/static/media/fiver.739cf510d261ddb0ecb1.png",
+    "static/media/Upwork.png": "/static/media/Upwork.dbd3fbf4150e334eec3d.png",
+    "static/media/Shopify.png": "/static/media/Shopify.0fe5ba219f6f33e3f966.png",
+    "static/media/humble.png": "/static/media/humble.c8b32b53675e68978981.png",
+    "static/media/heartemoji.png": "/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
+    "static/media/wave.png": "/static/media/wave.fdfef4069ad90f610990.png",
+    "static/media/glasses.png": "/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
+    "static/media/user.png": "/static/media/user.44ea40a3eb8dd7fed2a9.png",
+    "index.html": "/index.html",
+    "main.f43981e3.css.map": "/static/css/main.f43981e3.css.map",
+    "main.37dbfdb3.js.map": "/static/js/main.37dbfdb3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f43981e3.css",
+    "static/js/main.37dbfdb3.js"
+  ]
+}
